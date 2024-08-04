@@ -1,0 +1,38 @@
+{
+  "birinci_kutu": {
+    "x": 260,
+    "y": 1127
+  },
+  "ikinci_kutu": {
+    "x": 650,
+    "y": 1127
+  },
+  "ucuncu_kutu": {
+    "x": 1070,
+    "y": 1150
+  },
+  "dorduncu_kutu": {
+    "x": 286,
+    "y": 1522
+  },
+  "besinci_kutu": {
+    "x": 660,
+    "y": 1528
+  },
+  "altinci_kutu": {
+    "x": 1000,
+    "y": 1541
+  },
+  "yedinci_kutu": {
+    "x": 257,
+    "y": 1934
+  },
+  "sekizinci_kutu": {
+    "x": 669,
+    "y": 1899
+  },
+  "dokuzuncu_kutu": {
+    "x": 1041,
+    "y": 1899
+  }
+}
